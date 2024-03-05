@@ -16,7 +16,7 @@ console.log(3+3)
 
 console.log("Abhishek")
 
-//DATA types in JS
+//DATA types in JS......................................................................................
 /*
 number
 bigint
