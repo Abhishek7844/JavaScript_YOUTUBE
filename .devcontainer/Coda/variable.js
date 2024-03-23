@@ -27,3 +27,9 @@ console.log(Name)
 console.log(cityUser)
 console.log(password)
 console.log(State)
+
+
+//string convert into int
+
+let a3 = parseInt("679jjjj989");
+console.log(a3);
