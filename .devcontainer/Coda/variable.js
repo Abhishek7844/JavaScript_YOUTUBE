@@ -30,6 +30,9 @@ console.log(State)
 
 
 //string convert into int
+let a2 = parseInt("s679jjjj989");
+console.log(a2);
+
 
 let a3 = parseInt("679jjjj989");
 console.log(a3);
