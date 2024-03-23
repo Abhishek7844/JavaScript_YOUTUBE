@@ -36,3 +36,27 @@ console.log(a2);
 
 let a3 = parseInt("679jjjj989");
 console.log(a3);
+
+//UNdefined:-------------------------------->
+// things which are not defined /initialed /
+
+let a4;
+console.log(a4);
+console.log(typeof a4);
+
+//null--------------------------------------->
+//null is a value also to assign a var 
+
+console.log("null--------------------------------------->");
+console.log(+null);
+console.log(+undefined);
+
+let a5 = null;
+console.log(a5);
+console.log(typeof a5);
+
+let bigint = 782638764872;
+console.log(bigint);
+
+
+
